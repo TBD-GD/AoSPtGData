@@ -1,0 +1,102 @@
+{
+	"Alliances": {
+		"Name":
+			[
+				{
+					"Name": "Order"
+				},
+				{
+					"Name": "Death"
+				},
+				{
+					"Name": "Chaos"
+				},
+				{
+					"Name": "Destruction"
+				}
+			]
+	},
+	"Factions": {
+		"Order": 
+			[
+				{
+					"Name": "Cities Of Sigmar"
+				},
+				{
+					"Name": "Daughters of Khaine"
+				},
+				{
+					"Name": "Fyreslayers"
+				},
+				{
+					"Name": "Idoneth Deepkin"
+				},
+				{
+					"Name": "Kharadron Overlords"
+				},
+				{
+					"Name": "Lumineth Realm-Lords"
+				},
+				{
+					"Name": "Seraphon"
+				},
+				{
+					"Name": "Stormcast Eternals"
+				},
+				{
+					"Name": "Sylvaneth"
+				}
+			],
+		"Death": 
+			[
+				{
+					"Name": "Flesh-Eater Courts"
+				},
+				{
+					"Name": "Nighthaunt"
+				},
+				{
+					"Name": "Ossiarch Bonereapers"
+				},
+				{
+					"Name": "Soulblight Gravelords"
+				}
+			],
+		"Chaos": 
+			[
+				{
+					"Name": "Blades of Khorne"
+				},
+				{
+					"Name": "Disciples of Tzeentch"
+				},
+				{
+					"Name": "Hedonites of Slaanesh"
+				},
+				{
+					"Name": "Maggotkin of Nurgle"
+				},
+				{
+					"Name": "Skaven"
+				},
+				{
+					"Name": "Slaves to Darkness"
+				}
+			],
+		"Destruction": 
+			[
+				{
+					"Name": "Gloomspite Gitz"
+				},
+				{
+					"Name": "Ogor Mawtribes"
+				},
+				{
+					"Name": "Orruk Warclans"
+				},
+				{
+					"Name": "Sons of Behemat"
+				}
+			]
+	}
+}

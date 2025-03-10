@@ -1,0 +1,14 @@
+{
+	"ArmyRegister": {
+		"Armies": [
+			{
+				"ArmyFilePath": "user://armydata/testname1.json",
+				"ArmyName": "testname1"
+			},
+			{
+				"ArmyFilePath": "user://armydata/Skaven Army.json",
+				"ArmyName": "Skaven Army"
+			}
+		]
+	}
+}

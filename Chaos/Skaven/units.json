@@ -1,0 +1,85 @@
+{
+    "Heros": {
+        "Arch-Warlock": {
+            "Control": 2,
+            "Health": 5,
+            "Melee": {
+                "Stormcage Halberd": {
+                    "Attack": 3,
+                    "Damage": 2,
+                    "Hit": 3,
+                    "Name": "Stormcage Halberd",
+                    "Rend": 1,
+                    "Wound": 4
+                }
+            },
+            "Move": 6,
+            "Name": "Arch-Warlock",
+            "Ranged": {
+                "Warpfire Gauntlet": {
+                    "Ability": "Shoot in Combat",
+                    "Attack": 6,
+                    "Damage": 1,
+                    "Hit": 2,
+                    "Name": "Warpfire Gauntlet",
+                    "Range": 10,
+                    "Rend": 2,
+                    "Wound": 4
+                }
+            },
+            "Save": 4,
+            "Unit Keywords": "Hero, Wizard(1), Infantry, Chaos, Skaven, Skyre"
+        },
+        "Warlock Bombadier": {
+            "Control": 2,
+            "Health": 5,
+            "Melee": {
+                "Firing Pole": {
+                    "Attack": 3,
+                    "Damage": 1,
+                    "Hit": 4,
+                    "Name": "Firing Pole",
+                    "Rend": 0,
+                    "Wound": 4
+                }
+            },
+            "Move": 6,
+            "Name": "Warlock Bombadier",
+            "Ranged": {
+                "Doomrocket": {
+                    "Ability": "Anti-Infantry (+1 Rend)",
+                    "Attack": 2,
+                    "Damage": "D6",
+                    "Hit": 4,
+                    "Name": "Doomrocket",
+                    "Range": 18,
+                    "Rend": 1,
+                    "Wound": 3
+                }
+            },
+            "Save": 5,
+            "Unit Keywords": "Hero, Infantry, Chaos, Skaven, Skyre"
+        }
+    },
+    "NonHero": {
+        "Clanrats": {
+            "Control": 1,
+            "Health": 1,
+            "Melee": {
+                "Rusty Weapon": {
+                    "Ability": "Crit (Auto-wound)",
+                    "Attack": 2,
+                    "Damage": 1,
+                    "Hit": 4,
+                    "Name": "Rusty Weapon",
+                    "Rend": 0,
+                    "Wound": 5
+                }
+            },
+            "Move": 6,
+            "Name": "Clanrats",
+            "Save": 5,
+            "Unit Keywords": "Infantry, Champion, Musician (1/20),Standard Bearer (1/20), Chaos, Skaven, Verminus"
+        }
+    }
+}
